@@ -1,6 +1,6 @@
 # Interpersonal-relationship-navigation-map
 
-There are roughly 6 personality characteristics in the bottom society, of which 4 are the bottom personality characteristics and 2 are the middle bottom personality characteristics. A detailed analysis and discussion will be carried out below.
+There are roughly 6 personality characteristics in the career, of which 4 are the bottom personality characteristics and 2 are the middle bottom personality characteristics. A detailed analysis and discussion will be carried out below.
 
 ![image](https://user-images.githubusercontent.com/17419617/147376658-a9e65578-f14f-4a0d-a045-9493a04a2360.png)
 
